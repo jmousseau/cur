@@ -1,0 +1,7 @@
+Package: cur
+Type: Package
+Title: Curry any R function.
+Version: 0.0.0
+Authors@R: as.person("Jack Mousseau <jackmousseau@gmail.com> [cre, aut]")
+License: MIT
+RoxygenNote: 6.1.1
