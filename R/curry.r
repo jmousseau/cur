@@ -20,8 +20,6 @@
 #'
 #' @export
 curry <- function(func) {
-  curried_function_parameters <- formals(func)
-
   root_env <- new.env()
   root_env$defined_parameters <- list()
 
